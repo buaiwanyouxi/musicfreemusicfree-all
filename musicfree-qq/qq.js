@@ -767,7 +767,7 @@
       '②首选备用 无名音乐网mvmp3(后台预热Cookie+自动过人机验证+【歌手-歌名】严格身份校验) 与 ③次选备用 Tonzhon网易云匹配(tonzhon.com搜索+weapi取链) 并发启动；' +
       '兜底优先选 mvmp3（用户指定源，按【歌手 - 歌名】严格匹配歌名+作者，排除“王大毛-去年夏天”类同名异人错曲），mvmp3 未取到时再退 Tonzhon；' +
       '整段 9s 软上限 + 歌名/作者/时长多重身份校验，最大化“有歌可播”且规避沙箱 10s 超时。',
-    srcUrl: 'https://cdn.jsdelivr.net/gh/buaiwanyouxi/musicfreemusicfree-all@main/musicfree-qq/qq.js',
+    srcUrl: 'https://cdn.jsdelivr.net/gh/buaiwanyouxi/musicfreemusicfree-all@c0f38064506d8055a3e7d79c637abe92c6d78a03/musicfree-qq/qq.js',
     cacheControl: 'no-cache',
     supportedSearchType: ['music'],
     userVariables: [
